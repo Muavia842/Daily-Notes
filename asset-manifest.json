@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Daily-Notes/static/css/main.15774782.css",
+    "main.js": "/Daily-Notes/static/js/main.a5cfd64e.js",
+    "index.html": "/Daily-Notes/index.html",
+    "main.15774782.css.map": "/Daily-Notes/static/css/main.15774782.css.map",
+    "main.a5cfd64e.js.map": "/Daily-Notes/static/js/main.a5cfd64e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15774782.css",
+    "static/js/main.a5cfd64e.js"
+  ]
+}
